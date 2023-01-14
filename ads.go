@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"periph.io/x/periph/host"
+	"periph.io/x/host/v3"
 )
 
 // HostInit calls periph.io host.Init(). This needs to be done before ADS can be used.

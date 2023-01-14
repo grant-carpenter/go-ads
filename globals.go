@@ -1,7 +1,7 @@
 package ads
 
 import (
-	"periph.io/x/periph/conn/i2c"
+	"periph.io/x/conn/v3/i2c"
 )
 
 // https://cdn-shop.adafruit.com/datasheets/ads1115.pdf
