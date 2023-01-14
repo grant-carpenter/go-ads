@@ -1,4 +1,4 @@
-module go-ads
+module github.com/grant-carpenter/go-ads
 
 go 1.19
 
