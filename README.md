@@ -1,3 +1,8 @@
+## Note from the fork
+
+Some of the dependencies in the original branch were deprecated and I needed to test a sensor that night, so here we are. I've only tesetd these changes on an ADS1115, and the results were reasonable. Take all of this with a grain of salt and use with care as I have no means of running a full test. 
+Regardless, full credit to the original developers who did 99.99% of the work.
+
 # Go ADS1113, ADS1114, and ADS1115 interface
 
 Golang ADS1113, ADS1114, and ADS1115 interface using periph.io driver
